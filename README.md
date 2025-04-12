@@ -13,16 +13,20 @@
 
 <h3>Connect with Me:</h3>
 <p>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/aishwarya-mishra-3463b0259/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <!-- HackerRank -->
     <a href="https://www.hackerrank.com/profile/aishwaryamishr14" target="_blank">
         <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
     </a>
+    <!-- LeetCode -->
     <a href="https://leetcode.com/u/aishwaryamishra2003/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
     </a>
 </p>
+
 
 
 ---
