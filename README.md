@@ -12,7 +12,9 @@
 ---
 
 ### Connect with Me:
-[LinkedIn](#), [Instagram](#), [HackerRank](#), [Discord](#)
+[LinkedIn](https://www.linkedin.com/in/aishwarya-mishra-3463b0259/)
+ [HackerRank](https://www.hackerrank.com/profile/aishwaryamishr14)
+ [LeetCode](https://leetcode.com/u/aishwaryamishra2003/)
 
 ---
 
