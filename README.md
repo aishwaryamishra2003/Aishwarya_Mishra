@@ -6,15 +6,15 @@
 
 💬 Skilled in **HTML**, **CSS**, **JavaScript**, and exploring **Tailwind CSS**, **Bootstrap 🅱️**, **React.js ⚛️**, and **Node.js 🛴**. 
 
-📫 **Let’s Connect**: Reach me at [YourEmailHere] or on [LinkedIn](#).
+📫 **Let’s Connect**: Reach me at [Email](aishwaryamishra003@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/aishwarya-mishra-3463b0259/).
 
 ⚡ **Fun Fact**: Solving coding challenges is my favorite mental workout!
 ---
 
 ### Connect with Me:
-[LinkedIn](https://www.linkedin.com/in/aishwarya-mishra-3463b0259/)
- [HackerRank](https://www.hackerrank.com/profile/aishwaryamishr14)
- [LeetCode](https://leetcode.com/u/aishwaryamishra2003/)
+[LinkedIn](https://www.linkedin.com/in/aishwarya-mishra-3463b0259/) <br>
+ [HackerRank](https://www.hackerrank.com/profile/aishwaryamishr14) <br>
+ [LeetCode](https://leetcode.com/u/aishwaryamishra2003/)<br>
 
 ---
 
